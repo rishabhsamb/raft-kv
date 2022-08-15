@@ -1,0 +1,1 @@
+This repo is a small implementation of the [Raft distributed consensus algorithm](https://raft.github.io/raft.pdf).
